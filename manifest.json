@@ -1,24 +1,11 @@
 {
-  "name": "ETS Bogasto GSM Info",
-  "short_name": "TONTINE-JOUNALIAIRE",
-  "description": "Réparation, Déblocage et vente d'Accessoires pour Tous les Téléphones.",
+  "name": "Tontine Carnet 31 Cases - Tantine Journalière",
+  "short_name": "Tontine Carnet",
   "start_url": "./index.html",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#0f172a",
+  "background_color": "#eef2f7",
   "theme_color": "#0f172a",
   "icons": [
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
